@@ -6,8 +6,8 @@ A simple backup and recovery service for small businesses.
 *   **QA Tester & Developer:** Vika
 
 ## Project Links
-*   Presentation: [Upload your presentation file here later]
-*   Demonstration: [Upload your storyboard images here later]
+*   Presentation: BACKUPBUDDY.pdf
+*   Demonstration: Storyboard is included in the PDF presentation.
 
 ## Tested by
 Olha and Vika.
